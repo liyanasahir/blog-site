@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Tabs on Liyana Sahir</title>
+    <link>https://www.liyanasahir.in/garden/</link>
+    <description>Recent content in Open Tabs on Liyana Sahir</description>
+    <image>
+      <title>Liyana Sahir</title>
+      <url>https://www.liyanasahir.in/media/profile_seoul.jpg</url>
+      <link>https://www.liyanasahir.in/media/profile_seoul.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.liyanasahir.in/garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are we not of interest to each other?</title>
+      <link>https://www.liyanasahir.in/garden/ars-poetica/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/ars-poetica/</guid>
+      <description>Elizabeth Alexander&amp;#39;s Ars Poetica #100: I Believe.</description>
+    </item>
+    <item>
+      <title>Joy is not made to be a crumb</title>
+      <link>https://www.liyanasahir.in/garden/dont-hesitate/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/dont-hesitate/</guid>
+      <description>Mary Oliver&amp;#39;s Don&amp;#39;t Hesitate.</description>
+    </item>
+    <item>
+      <title>Emily Bender</title>
+      <link>https://www.liyanasahir.in/garden/emily-bender/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/emily-bender/</guid>
+      <description>Elizabeth Weil&amp;#39;s profile of Emily Bender, and the question of what we lose when we blur the line between human and machine language.</description>
+    </item>
+    <item>
+      <title>Stochastic parrots</title>
+      <link>https://www.liyanasahir.in/garden/stochastic-parrots/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/stochastic-parrots/</guid>
+      <description>On the &amp;#39;stochastic parrots&amp;#39; paper, coherence, and what we project onto language models.</description>
+    </item>
+    <item>
+      <title>Dijkstra&#39;s writing practice</title>
+      <link>https://www.liyanasahir.in/garden/dijkstra-writing/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/dijkstra-writing/</guid>
+      <description>the og blogger</description>
+    </item>
+    <item>
+      <title>The limits of my language</title>
+      <link>https://www.liyanasahir.in/garden/wittgenstein-language/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/wittgenstein-language/</guid>
+      <description>Wittgenstein&amp;#39;s two takes on language and its walls, one early, one late.</description>
+    </item>
+    <item>
+      <title>Anxiety is the dizziness of freedom</title>
+      <link>https://www.liyanasahir.in/garden/kierkegaard-anxiety/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/kierkegaard-anxiety/</guid>
+      <description>Kierkegaard on anxiety</description>
+    </item>
+    <item>
+      <title>Amaltas</title>
+      <link>https://www.liyanasahir.in/garden/amaltas/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/amaltas/</guid>
+      <description>golden showers of joy</description>
+    </item>
+    <item>
+      <title>Radia Perlman</title>
+      <link>https://www.liyanasahir.in/garden/radia-perlman/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/garden/radia-perlman/</guid>
+      <description>The &amp;#39;mother of the internet&amp;#39; who doesn&amp;#39;t love the title, and the protocol that holds networks together.</description>
+    </item>
+  </channel>
+</rss>

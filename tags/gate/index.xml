@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gate on Liyana Sahir</title>
+    <link>https://www.liyanasahir.in/tags/gate/</link>
+    <description>Recent content in Gate on Liyana Sahir</description>
+    <image>
+      <title>Liyana Sahir</title>
+      <url>https://www.liyanasahir.in/media/profile_seoul.jpg</url>
+      <link>https://www.liyanasahir.in/media/profile_seoul.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2024 12:40:32 +0000</lastBuildDate>
+    <atom:link href="https://www.liyanasahir.in/tags/gate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Stretching Your Comfort Zones.</title>
+      <link>https://www.liyanasahir.in/posts/comfort-zones/</link>
+      <pubDate>Wed, 17 Jan 2024 12:40:32 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/posts/comfort-zones/</guid>
+      <description>Written after my first semester at IISc, from a very vulnerable place. Enough time has passed that it feels okay to put this out here.</description>
+    </item>
+    <item>
+      <title>On GATE</title>
+      <link>https://www.liyanasahir.in/posts/on-gate/</link>
+      <pubDate>Wed, 31 Mar 2021 21:50:04 +0530</pubDate>
+      <guid>https://www.liyanasahir.in/posts/on-gate/</guid>
+      <description>I happened to get AIR 10 in GATE CSE, but I am not sure if I know how that happened. Here is an attempt.</description>
+    </item>
+  </channel>
+</rss>

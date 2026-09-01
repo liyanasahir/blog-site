@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bangalore on Liyana Sahir</title>
+    <link>https://www.liyanasahir.in/tags/bangalore/</link>
+    <description>Recent content in Bangalore on Liyana Sahir</description>
+    <image>
+      <title>Liyana Sahir</title>
+      <url>https://www.liyanasahir.in/media/profile_seoul.jpg</url>
+      <link>https://www.liyanasahir.in/media/profile_seoul.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2024 12:40:32 +0000</lastBuildDate>
+    <atom:link href="https://www.liyanasahir.in/tags/bangalore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating New Roads.</title>
+      <link>https://www.liyanasahir.in/posts/new_roads/</link>
+      <pubDate>Sat, 10 Feb 2024 12:40:32 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/posts/new_roads/</guid>
+      <description>On moving to Gurgaon, leaving Bangalore behind, and learning a new city.</description>
+    </item>
+    <item>
+      <title>A Goodbye to the Bangalore Days.</title>
+      <link>https://www.liyanasahir.in/posts/goodbye-iisc/</link>
+      <pubDate>Sat, 10 Feb 2024 11:40:32 +0000</pubDate>
+      <guid>https://www.liyanasahir.in/posts/goodbye-iisc/</guid>
+      <description>and to the second edition of campus life.</description>
+    </item>
+  </channel>
+</rss>
